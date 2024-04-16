@@ -22,7 +22,7 @@ const Navbar = () => {
                                 </Link>                  
                                 <Link className="btn btn-lg btn-primary m-2" to="/services">
                                     <button>
-                                        Flavors
+                                        Services
                                     </button>
                                 </Link>    
                                 <Link className="btn btn-lg btn-primary m-2" to="/portfolio">

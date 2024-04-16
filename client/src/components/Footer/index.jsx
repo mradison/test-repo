@@ -39,12 +39,12 @@ const Footer = () => {
           </span>
         </div>
         <div className="footer-links">
-          <div className="flex-item"><span>Contact Us: 480-204-6522 </span><a href="clairshomemadecheesecakes@gmail.com"> clairshomemadecheesecakes@gmail.com</a></div>
+          <div className="flex-item"><span>Contact Us</span></div>
           <div className="flex-item"><span>Careers</span></div>
           <div className="flex-item"><span>Disclosures</span></div>
         </div>
           <div>
-        <h4 className="copyright">&copy; {new Date().getFullYear()} - Clair's Home Made Cheesecakes</h4>
+        <h4 className="copyright">&copy; {new Date().getFullYear()} - Mesa Pioneer Construction</h4>
         </div>
       </div>
     </footer>
